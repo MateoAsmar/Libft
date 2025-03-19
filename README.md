@@ -35,7 +35,9 @@ Libft is my custom C library project from 42, where I re-implemented a variety o
 
 To compile the library, simply run:
 
-*make*
+```bash
+make
+```
 
 This command compiles all source files and generates the static library libft.a.
 
